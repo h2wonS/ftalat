@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 # ftalat - Frequency Transition Latency Estimator
 # Copyright (C) 2013 Universite de Versailles
@@ -29,15 +29,15 @@ import glob
 
 # Usual argument checking
 if len(sys.argv) != 3:
-   print './extract.py input_folder output_folder'
+   print ('./extract.py input_folder output_folder')
    sys.exit()
    
 if not os.path.isdir(sys.argv[1]):
-   print sys.argv[1] + " is not a directory"
+   print (sys.argv[1] + " is not a directory")
    sys.exit()
    
 if not os.path.isdir(sys.argv[2]):
-   print sys.argv[2] + " is not a directory"
+   print (sys.argv[2] + " is not a directory")
    sys.exit()
       
 # Check turbo freq
@@ -47,7 +47,7 @@ try:
    turboFreq = int(turboFile.read().strip())
    turboFile.close()
 except IOError:
-   print "turbo file not found in " + sys.argv[1]
+   print ("turbo file not found in " + sys.argv[1])
    sys.exit()
       
 # Clean files in output folders
@@ -59,7 +59,7 @@ if len(oldFiles) != 0:
       for f in oldFiles:
          os.remove(f)
    else:
-      print "These files needs to be removed to not collide with the script ... aborting"
+      print ("These files needs to be removed to not collide with the script ... aborting")
       sys.exit()
       
 # Copy turbo stamp in results folder

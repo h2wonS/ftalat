@@ -19,7 +19,7 @@ def median(values):
    sortedValues = sorted(values)
    
    length = len(sortedValues)
-   midLength = length / 2
+   midLength = int(length / 2)
    
    if length % 2 == 1: # odd, so the can get directly the value
       return sortedValues[midLength]

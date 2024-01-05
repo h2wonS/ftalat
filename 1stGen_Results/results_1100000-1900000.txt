@@ -1,0 +1,376 @@
+Bench 1900000 1185.96
+Bench 1100000 1991.08
+targetLowbound : 1177 ; targetHighbound : 1195
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1983 ; startHighbound : 1999
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 0 ;  Number of attempts : 6
+Warning: The computed change time may not be accurate
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 11110
+Change time : 2644
+Write cost : : 8466
+############################
+Bench 1900000 1166.33
+Bench 1100000 2010.94
+targetLowbound : 1160 ; targetHighbound : 1172
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1997 ; startHighbound : 2025
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 53 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 231032
+Change time : 213908
+Write cost : : 17124
+############################
+Bench 1900000 1168.97
+Bench 1100000 2029.01
+targetLowbound : 1168 ; targetHighbound : 1170
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2016 ; startHighbound : 2042
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 243 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 894476
+Change time : 877240
+Write cost : : 17236
+############################
+Bench 1900000 1168.29
+Bench 1100000 2008.52
+targetLowbound : 1163 ; targetHighbound : 1174
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1998 ; startHighbound : 2019
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 300 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1169
+Change time (with write) : 1130398
+Change time : 1113590
+Write cost : : 16808
+############################
+Bench 1900000 1169.27
+Bench 1100000 1997.29
+targetLowbound : 1165 ; targetHighbound : 1174
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1986 ; startHighbound : 2008
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 294 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 1070346
+Change time : 1053520
+Write cost : : 16826
+############################
+Bench 1900000 1168.87
+Bench 1100000 2000.96
+targetLowbound : 1165 ; targetHighbound : 1173
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1988 ; startHighbound : 2014
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 166 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1169
+Change time (with write) : 646298
+Change time : 629942
+Write cost : : 16356
+############################
+Bench 1900000 1170.31
+Bench 1100000 1984.02
+targetLowbound : 1166 ; targetHighbound : 1175
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1975 ; startHighbound : 1993
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 119 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 461642
+Change time : 444144
+Write cost : : 17498
+############################
+Bench 1900000 1167.85
+Bench 1100000 2015.19
+targetLowbound : 1163 ; targetHighbound : 1173
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2013 ; startHighbound : 2017
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 299 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1168 ; validateHighbound : 1169
+Change time (with write) : 1128810
+Change time : 1111158
+Write cost : : 17652
+############################
+Bench 1900000 1170.05
+Bench 1100000 1998.52
+targetLowbound : 1164 ; targetHighbound : 1176
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1983 ; startHighbound : 2014
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 275 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 1040634
+Change time : 1023166
+Write cost : : 17468
+############################
+Bench 1900000 1169.97
+Bench 1100000 2011.61
+targetLowbound : 1163 ; targetHighbound : 1177
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2005 ; startHighbound : 2018
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 313 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 1137208
+Change time : 1119908
+Write cost : : 17300
+############################
+Bench 1900000 1167.51
+Bench 1100000 2019.13
+targetLowbound : 1161 ; targetHighbound : 1174
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2010 ; startHighbound : 2029
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 243 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 924814
+Change time : 908364
+Write cost : : 16450
+############################
+Bench 1900000 1168.10
+Bench 1100000 2007.92
+targetLowbound : 1165 ; targetHighbound : 1171
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1997 ; startHighbound : 2019
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 55 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 239052
+Change time : 221940
+Write cost : : 17112
+############################
+Bench 1900000 1168.88
+Bench 1100000 1986.27
+targetLowbound : 1162 ; targetHighbound : 1175
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1976 ; startHighbound : 1997
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 165 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 643680
+Change time : 626998
+Write cost : : 16682
+############################
+Bench 1900000 1168.50
+Bench 1100000 1988.13
+targetLowbound : 1162 ; targetHighbound : 1175
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1978 ; startHighbound : 1998
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 148 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 582836
+Change time : 565310
+Write cost : : 17526
+############################
+Bench 1900000 1166.24
+Bench 1100000 1998.58
+targetLowbound : 1163 ; targetHighbound : 1169
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1988 ; startHighbound : 2009
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 159 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 603850
+Change time : 585552
+Write cost : : 18298
+############################
+Bench 1900000 1163.65
+Bench 1100000 2016.85
+targetLowbound : 1163 ; targetHighbound : 1165
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2007 ; startHighbound : 2027
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 293 ;  Number of attempts : 6
+Warning: The computed change time may not be accurate
+LastTime : 1170 ; validateLowbound : 1168 ; validateHighbound : 1169
+Change time (with write) : 1125270
+Change time : 1117592
+Write cost : : 7678
+############################
+Bench 1900000 1167.67
+Bench 1100000 2008.83
+targetLowbound : 1163 ; targetHighbound : 1173
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1995 ; startHighbound : 2023
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 110 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 431040
+Change time : 413916
+Write cost : : 17124
+############################
+Bench 1900000 1164.54
+Bench 1100000 1981.02
+targetLowbound : 1162 ; targetHighbound : 1167
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1976 ; startHighbound : 1987
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 298 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 1125802
+Change time : 1108852
+Write cost : : 16950
+############################
+Bench 1900000 1168.29
+Bench 1100000 2015.88
+targetLowbound : 1162 ; targetHighbound : 1175
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2005 ; startHighbound : 2026
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 222 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 821578
+Change time : 804244
+Write cost : : 17334
+############################
+Bench 1900000 1170.92
+Bench 1100000 1997.04
+targetLowbound : 1165 ; targetHighbound : 1177
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1984 ; startHighbound : 2010
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 33 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 163010
+Change time : 145274
+Write cost : : 17736
+############################
+Bench 1900000 1169.17
+Bench 1100000 1993.05
+targetLowbound : 1163 ; targetHighbound : 1175
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1979 ; startHighbound : 2007
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 304 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 1147122
+Change time : 1129768
+Write cost : : 17354
+############################
+Bench 1900000 1168.94
+Bench 1100000 1999.47
+targetLowbound : 1164 ; targetHighbound : 1174
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1987 ; startHighbound : 2012
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 82 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 332472
+Change time : 316196
+Write cost : : 16276
+############################
+Bench 1900000 1168.36
+Bench 1100000 2021.99
+targetLowbound : 1162 ; targetHighbound : 1175
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2014 ; startHighbound : 2030
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 125 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 500128
+Change time : 482962
+Write cost : : 17166
+############################
+Bench 1900000 1165.68
+Bench 1100000 2027.89
+targetLowbound : 1160 ; targetHighbound : 1171
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2015 ; startHighbound : 2041
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 49 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1168 ; validateHighbound : 1169
+Change time (with write) : 217876
+Change time : 200580
+Write cost : : 17296
+############################
+Bench 1900000 1164.92
+Bench 1100000 1989.23
+targetLowbound : 1162 ; targetHighbound : 1168
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1977 ; startHighbound : 2001
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 77 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1168 ; validateHighbound : 1169
+Change time (with write) : 323232
+Change time : 305734
+Write cost : : 17498
+############################
+Bench 1900000 1169.69
+Bench 1100000 2011.63
+targetLowbound : 1166 ; targetHighbound : 1173
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1999 ; startHighbound : 2024
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 123 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1168 ; validateHighbound : 1169
+Change time (with write) : 489254
+Change time : 472136
+Write cost : : 17118
+############################
+Bench 1900000 1170.51
+Bench 1100000 1992.72
+targetLowbound : 1165 ; targetHighbound : 1176
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1982 ; startHighbound : 2003
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 44 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1168 ; validateHighbound : 1170
+Change time (with write) : 199086
+Change time : 181120
+Write cost : : 17966
+############################
+Bench 1900000 1164.54
+Bench 1100000 2026.79
+targetLowbound : 1164 ; targetHighbound : 1166
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2017 ; startHighbound : 2037
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 0 ;  Number of attempts : 6
+Warning: The computed change time may not be accurate
+LastTime : 1168 ; validateLowbound : 1850 ; validateHighbound : 1981
+Change time (with write) : 9876
+Change time : 2340
+Write cost : : 7536
+############################
+Bench 1900000 1169.70
+Bench 1100000 2026.04
+targetLowbound : 1167 ; targetHighbound : 1172
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2014 ; startHighbound : 2038
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 297 ;  Number of attempts : 1
+LastTime : 1170 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 1084936
+Change time : 1067812
+Write cost : : 17124
+############################
+Bench 1900000 1164.98
+Bench 1100000 2018.54
+targetLowbound : 1164 ; targetHighbound : 1166
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 2006 ; startHighbound : 2031
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 0 ;  Number of attempts : 6
+Warning: The computed change time may not be accurate
+LastTime : 1170 ; validateLowbound : 1167 ; validateHighbound : 1169
+Change time (with write) : 10274
+Change time : 2394
+Write cost : : 7880
+############################
+Bench 1900000 1166.55
+Bench 1100000 1982.03
+targetLowbound : 1164 ; targetHighbound : 1169
+targetQ1 : 1168 ; targetQ3 : 1170
+startLowbound : 1975 ; startHighbound : 1989
+Confidence intervals do not overlap, alternatives are statistically different with selected confidence level
+Number of iterations to solution : 294 ;  Number of attempts : 1
+LastTime : 1168 ; validateLowbound : 1168 ; validateHighbound : 1169
+Change time (with write) : 1111216
+Change time : 1093546
+Write cost : : 17670
+############################

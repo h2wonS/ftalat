@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 # ftalat - Frequency Transition Latency Estimator
 # Copyright (C) 2013 Universite de Versailles
@@ -28,15 +28,15 @@ import cpuutils
 
 # Usual argument checking
 if len(sys.argv) != 3:
-   print './extract.py input_folder output_file'
+   print ('./extract.py input_folder output_file')
    sys.exit()
    
 if not os.path.isdir(sys.argv[1]):
-   print sys.argv[1] + " is not a directory"
+   print (sys.argv[1] + " is not a directory")
    sys.exit()
    
 if os.path.isdir(sys.argv[2]):
-   print sys.argv[2] + " is a directory ! Please specify a file"
+   print (sys.argv[2] + " is a directory ! Please specify a file")
    sys.exit()
    
 # Check turbo freq
@@ -46,14 +46,14 @@ try:
    turboFreq = int(turboFile.read().strip())
    turboFile.close()
 except IOError:
-   print "turbo file not found in " + sys.argv[1]
+   print ("turbo file not found in " + sys.argv[1])
    sys.exit()
    
 if os.path.exists(sys.argv[2]):
    var = raw_input(sys.argv[2] + " exists ! Do you want to overwrite it ? [Y/n] ")
 
    if var != "y" and var != "Y":
-      print "Aborted"
+      print ("Aborted")
       sys.exit()
 
 # Get the files to proceed

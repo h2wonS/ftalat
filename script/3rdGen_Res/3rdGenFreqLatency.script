@@ -1,0 +1,26 @@
+set title "Frequencies transition latency estimation"
+set autoscale x
+set autoscale y
+set ylabel "Latency (micro-seconds)"
+set term pdfcairo enhanced color
+set output "3rdGenFreqLatency.pdf"
+set key out vert
+set key cent
+set key right
+set palette model HSV rgbformulae 3,2,2
+unset colorbox
+plot "3rdGenFreqLatency" using ($1/1000000):($2 != 0 ? (($2)) : 1/0) axes x1y1 title "0.8 Ghz" with linespoints palette frac 0.0, \
+"3rdGenFreqLatency" using ($1/1000000):($3 != 0 ? (($3)) : 1/0) axes x1y1 title "0.9 Ghz" with linespoints palette frac 0.06666666666666667, \
+"3rdGenFreqLatency" using ($1/1000000):($4 != 0 ? (($4)) : 1/0) axes x1y1 title "1.1 Ghz" with linespoints palette frac 0.13333333333333333, \
+"3rdGenFreqLatency" using ($1/1000000):($5 != 0 ? (($5)) : 1/0) axes x1y1 title "1.2 Ghz" with linespoints palette frac 0.2, \
+"3rdGenFreqLatency" using ($1/1000000):($6 != 0 ? (($6)) : 1/0) axes x1y1 title "1.4 Ghz" with linespoints palette frac 0.26666666666666666, \
+"3rdGenFreqLatency" using ($1/1000000):($7 != 0 ? (($7)) : 1/0) axes x1y1 title "1.5 Ghz" with linespoints palette frac 0.3333333333333333, \
+"3rdGenFreqLatency" using ($1/1000000):($8 != 0 ? (($8)) : 1/0) axes x1y1 title "1.7 Ghz" with linespoints palette frac 0.4, \
+"3rdGenFreqLatency" using ($1/1000000):($9 != 0 ? (($9)) : 1/0) axes x1y1 title "1.8 Ghz" with linespoints palette frac 0.4666666666666667, \
+"3rdGenFreqLatency" using ($1/1000000):($10 != 0 ? (($10)) : 1/0) axes x1y1 title "1.9 Ghz" with linespoints palette frac 0.5333333333333333, \
+"3rdGenFreqLatency" using ($1/1000000):($11 != 0 ? (($11)) : 1/0) axes x1y1 title "2.1 Ghz" with linespoints palette frac 0.6, \
+"3rdGenFreqLatency" using ($1/1000000):($12 != 0 ? (($12)) : 1/0) axes x1y1 title "2.2 Ghz" with linespoints palette frac 0.6666666666666666, \
+"3rdGenFreqLatency" using ($1/1000000):($13 != 0 ? (($13)) : 1/0) axes x1y1 title "2.4 Ghz" with linespoints palette frac 0.7333333333333333, \
+"3rdGenFreqLatency" using ($1/1000000):($14 != 0 ? (($14)) : 1/0) axes x1y1 title "2.5 Ghz" with linespoints palette frac 0.8, \
+"3rdGenFreqLatency" using ($1/1000000):($15 != 0 ? (($15)) : 1/0) axes x1y1 title "2.7 Ghz" with linespoints palette frac 0.8666666666666667, \
+"3rdGenFreqLatency" using ($1/1000000):($16 != 0 ? (($16)) : 1/0) axes x1y1 title "2.8 Ghz" with linespoints palette frac 0.9333333333333333
